@@ -31,6 +31,8 @@ The project includes MATLAB and CMEX simulation models that leverage the mathema
 
 ![image](https://github.com/chronomustard/hyperbolic-tangent-feso-smc-pmsm/assets/70846916/7bc7ed42-02fa-4ca0-b538-740062931feb)
 
+![image](https://github.com/chronomustard/hyperbolic-tangent-feso-smc-pmsm/assets/70846916/875974c6-53de-4b95-836f-e0050d452b34)
+
 ### Simulation Results
 
 #### Changing Reference Signal
