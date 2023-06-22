@@ -34,7 +34,7 @@ The project includes MATLAB and CMEX simulation models that leverage the mathema
 #### Changing Reference Signal
 
 Load Torque: 0 Nm
-Reference Speed: 0 to 500 rpm on t = 1 secopnd
+Reference Speed: 0 to 500 rpm on t = 1 second and 500 to 250 rpm on t = 5 second
 ![image](https://github.com/chronomustard/hyperbolic-tangent-feso-smc-pmsm/assets/70846916/f20b969e-0939-4963-979d-383b12ab1a4e)
 
 #### Changing Load Torque (0 - 5 Nm)
