@@ -27,7 +27,8 @@ The project includes MATLAB and CMEX simulation models that leverage the mathema
 
 ### Q-axis Current Reference
 
-![image](https://github.com/chronomustard/hyperbolic-tangent-feso-smc-pmsm/assets/70846916/8366e31f-6c19-4944-8798-1d8c8ce4f428)
+![image](https://github.com/chronomustard/hyperbolic-tangent-feso-smc-pmsm/assets/70846916/0a193dff-5d4b-4541-9d1c-f9c46176f8fe)
+![image](https://github.com/chronomustard/hyperbolic-tangent-feso-smc-pmsm/assets/70846916/7bc7ed42-02fa-4ca0-b538-740062931feb)
 
 ### Simulation Results
 
