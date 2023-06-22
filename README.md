@@ -15,6 +15,14 @@ The key objectives of this project are as follows:
 
 The project includes MATLAB and CMEX simulation models that leverage the mathematical foundations and control algorithms described in the research articles. The HTF-ESO is utilized as an observer to estimate the system states, including the rotor speed and disturbances, while the SMC algorithm ensures robust and precise control of the PMSM.
 
+## ESO-SMSC Function
+# HTF ESO
+![image](https://github.com/chronomustard/hyperbolic-tangent-feso-smc-pmsm/assets/70846916/a1899e26-fab1-40e5-983e-52892ed3dd81)
+
+# Q-axis Current Reference
+![image](https://github.com/chronomustard/hyperbolic-tangent-feso-smc-pmsm/assets/70846916/8366e31f-6c19-4944-8798-1d8c8ce4f428)
+
+
 ## How to Use
 
 1. Clone this repository to your local machine using the following command:
@@ -24,7 +32,7 @@ The project includes MATLAB and CMEX simulation models that leverage the mathema
 
 2. Open MATLAB and navigate to the cloned repository directory.
 
-3. Run the simulation script `main_simulation.m` to execute the PMSM control simulation.
+3. Run the simulation script `RUNTHIS.slx` to execute the PMSM control simulation.
 
 4. Customize the simulation parameters, load profiles, and control settings as desired in the script.
 
