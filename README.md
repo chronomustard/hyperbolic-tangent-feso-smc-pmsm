@@ -15,13 +15,15 @@ The key objectives of this project are as follows:
 
 The project includes MATLAB and CMEX simulation models that leverage the mathematical foundations and control algorithms described in the research articles. The HTF-ESO is utilized as an observer to estimate the system states, including the rotor speed and disturbances, while the SMC algorithm ensures robust and precise control of the PMSM.
 
-## ESO-SMSC Function
+## ESO-SMSC
+### Simulink Block
+![image](https://github.com/chronomustard/hyperbolic-tangent-feso-smc-pmsm/assets/70846916/fb4445f2-ed8d-4348-82a2-f8b8126d0dbb)
+
 ### HTF ESO
 ![image](https://github.com/chronomustard/hyperbolic-tangent-feso-smc-pmsm/assets/70846916/a1899e26-fab1-40e5-983e-52892ed3dd81)
 
 ### Q-axis Current Reference
 ![image](https://github.com/chronomustard/hyperbolic-tangent-feso-smc-pmsm/assets/70846916/8366e31f-6c19-4944-8798-1d8c8ce4f428)
-
 
 ## How to Use
 
